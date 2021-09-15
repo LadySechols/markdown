@@ -13,8 +13,24 @@ Fugiat qui culpa non reprehenderit est dolor cillum qui esse anim consequat. Lab
 **bold**
 *italic* 
 
-#### h4
+#### h4 
+##### unordered list
+-cheese
+-bread
+-turkey
+
+##### Ordered List
+1. eat
+2. sleep
+3. eat
+4. play
+5. dream
 ##### h5
+#####adding table
+|username|eye color|birthyear|
+|--------|---------|---------|
+|sally|brown|1888|
+
 ###### h6
 
 markdown practice
