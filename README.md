@@ -10,6 +10,8 @@ Fugiat qui culpa non reprehenderit est dolor cillum qui esse anim consequat. Lab
 
 ### h3
 ***does this work?***
+**bold**
+*italic* 
 
 #### h4
 ##### h5
